@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://calmtiger86.github.io/ultrathink-weekly/sitemap.xml
