@@ -18,6 +18,12 @@ AI 뉴스는 넘치지만, "그래서 내가 뭘 해야 하는데?"라는 답은
 | 2026-W38 (9월 3주) | [바로가기](./2026-W38/) | AI 이상 행동 공개 체계, AI로 넓어지는 직무 범위, Google의 사회문제 AI 적용 |
 | 2026-W34 (8월 4주) | [바로가기](./2026-W34/) | GPT-5.6 가격 80% 인하, 구글 워크스페이스 Gemini 탑재, MCP 표준 확정 |
 
+## 무료 실용 도구
+
+🧭 **[내 업무, AI에 맡겨도 될까? — 60초 자동화 적합도 진단](https://calmtiger86.github.io/ultrathink-weekly/ai-work-fit/?utm_source=github&utm_medium=readme&utm_campaign=ai_work_fit_20260917)**
+
+6개 질문에 답하면 내 업무를 지금 자동화해도 되는지, 작게 시험해야 하는지 바로 알려드립니다. 로그인과 개인정보 입력은 필요 없습니다.
+
 ## 더 빠르게 받아보려면
 
 이 요약은 [Ultrathink AI 뉴스레터](https://ai-morning-report-landing.vercel.app?utm_source=github&utm_medium=readme)의 무료 공개 버전입니다.
